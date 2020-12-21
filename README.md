@@ -7,6 +7,7 @@ Downloads from Youtube using Pytube.   You can download public playlists or publ
 * If internet is bad, you can queue up and watch after it downloads
 * You can bulk get massive lists in minutes
 * no wifi on device but you want offline media?
+* Video available today but not tomorow?  Archive it
 
 # PRE-REQUISITES
 You need git, linux should be easy, but on windows that is:
